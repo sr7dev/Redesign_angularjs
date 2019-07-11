@@ -1416,3 +1416,56 @@ box-shadow: -1px 0px 23px -3px rgba(212,212,212,1);
 /*# sourceMappingURL=style.css.map */
 
 
+/*         Just for demo     */
+
+#carousel-example-generic,
+#carousel-example-generic_1,
+#carousel-example-generic_2,
+#carousel-example-generic_3,
+#carousel-example-generic_4 {
+  display: inline-block;
+}
+/*****************************/
+
+/* Plugin styles */
+ul.thumbnails-carousel,
+ul.thumbnails-carousel_1,
+ul.thumbnails-carousel_2,
+ul.thumbnails-carousel_3,
+ul.thumbnails-carousel_4 {
+	padding: 5px 0 0 0;
+	margin: 0;
+	list-style-type: none;
+	text-align: center;
+}
+ul.thumbnails-carousel .center,
+ul.thumbnails-carousel_1 .center,
+ul.thumbnails-carousel_2 .center,
+ul.thumbnails-carousel_3 .center,
+ul.thumbnails-carousel_4 .center  {
+	display: inline-block;
+}
+ul.thumbnails-carousel li,
+ul.thumbnails-carousel_1 li,
+ul.thumbnails-carousel_2 li,
+ul.thumbnails-carousel_3 li,
+ul.thumbnails-carousel_4 li {
+	margin-right: 5px;
+	float: left;
+  cursor: pointer;
+}
+.controls-background-reset {
+	background: none !important;
+}
+.active-thumbnail {
+	opacity: 0.4;
+}
+.indicators-fix {
+	bottom: 70px;
+}
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+  display: block;
+  max-width: 50%;
+  height: auto;
+  line-height: 1;
+}

@@ -152,9 +152,7 @@ $http.post('sendEmail.php?send=true',
        }).then(function(datas){
          alert("Success!");
        })
-
-
-
       }
+});
 
-})
+
