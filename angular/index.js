@@ -16,12 +16,8 @@ app.controller("mainController", function($scope,$http){
         launch_desc:"Dealing with the distribution platforms is difficult. Instead our specialised team takes care of everything for you. "
       },
 
-      func_facts:{
-        func_facts:"Fun Facts",
-        finished_projects:"Finished projects",
-        line_codes:"Lines of code",
-        cup_coffees:"Cup of coffees",
-        happy_clients:"Happy clients"
+      partners:{
+        partners:"PARTNERS",
       },
 
       services:{
@@ -80,12 +76,8 @@ app.controller("mainController", function($scope,$http){
         launch_desc:"C'est difficile de traiter les plates-formes de distribution. C'est pourquoi notre équipe spécialisée va s'occupper de tout ça pour vous."
       },
 
-      func_facts:{
-        func_facts:"Faits Amusants",
-        finished_projects:"Projets finis",
-        line_codes:"Ligne de codes",
-        cup_coffees:"Tasse de café",
-        happy_clients:"Clients heureux"
+      partners:{
+        partners:"PARTENAIRES",
       },
 
       services:{
