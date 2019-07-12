@@ -1469,6 +1469,7 @@ ul.thumbnails-carousel_8 li {
 	margin-right: 5px;
 	float: left;
   cursor: pointer;
+  width: 22%
 }
 .controls-background-reset {
 	background: none !important;
@@ -1581,3 +1582,60 @@ ul.thumbnails-carousel_8 li {
     right: 400%;
   }
 }
+
+.thumbnails-carousel img,
+.thumbnails-carousel_1 img,
+.thumbnails-carousel_2 img,
+.thumbnails-carousel_3 img,
+.thumbnails-carousel_4 img,
+.thumbnails-carousel_5 img,
+.thumbnails-carousel_6 img,
+.thumbnails-carousel_7 img,
+.thumbnails-carousel_8 img{
+  width: 95%;
+}
+
+.rectArea{
+  padding:10px;
+  background:#fff;
+  webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  margin:0 auto;
+  overflow:hidden;
+  transform: matrix3d(0.94, 0, 0.34, -0.0002, 0, 1, 0, 0, -0.34, 0, 0.94, 0, 1, 0, 10, 1) translateX(-10px);margin-top:5%;
+}
+
+.rectSize{
+  width:50%;
+  height: 350px;
+}
+.marginTop-title{
+  margin-top: 25%;
+}
+@media (max-width:1000px)
+{
+  .rectSize
+  {
+    width: 80%;
+    height: 400px;
+  }
+  .marginTop-title{
+    margin-top: 5%;
+  }
+}
+
+@media (max-width:768px)
+{
+  .rectSize
+  {
+    width: 80%;
+    height: 300px;
+  }
+}
+.videoWrapper {
+  width: 100%;
+  overflow: hidden;
+  height: 550px;
+}
+
