@@ -246,8 +246,8 @@
             <div class="row row-bottom-padded-sm">
 
                 <div class="col-md-4 col-sm-6 col-xxs-12">
-					<div ng-controller="mainController" class="modal fade" id="exampleModalLong1" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true" >
-						<div class="modal-dialog" style="width:80%;" role="document">
+					<div ng-controller="mainController" class="modal fade" id="exampleModalLong1" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true" style="padding:0px !important;" >
+						<div class="modal-dialog" role="document">
 							<div class="modal-content" style="text-align:center;">
 								<div class="modal-header">
 									<button type="button" class="close" data-dismiss="modal" aria-label="Close">
@@ -325,8 +325,8 @@
                 </div>
 
                 <div class="col-md-4 col-sm-6 col-xxs-12">
-                    <div class="modal fade" id="exampleModalLong2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
-                        <div class="modal-dialog" style="width:80%;" role="document">
+                    <div class="modal fade" id="exampleModalLong2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true" style="padding:0px !important;">
+                        <div class="modal-dialog" role="document">
                             <div class="modal-content" style="text-align:center;">
                                 <div class="modal-header">
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
@@ -406,8 +406,8 @@
                 <div class="clearfix visible-sm-block"></div>
 
                 <div class="col-md-4 col-sm-6 col-xxs-12">
-                    <div class="modal fade" id="exampleModalLong3" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
-                        <div class="modal-dialog" style="width:80%;" role="document">
+                    <div class="modal fade" id="exampleModalLong3" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true" style="padding:0px !important;">
+                        <div class="modal-dialog" role="document">
                             <div class="modal-content" style="text-align:center;">
                                 <div class="modal-header">
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
@@ -487,8 +487,8 @@
 
             <div class="row">
                 <div class="col-md-4 col-sm-6 col-xxs-12">
-                    <div class="modal fade" id="exampleModalLong4" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
-                        <div class="modal-dialog" style="width:80%;" role="document">
+                    <div class="modal fade" id="exampleModalLong4" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true" style="padding:0px !important;">
+                        <div class="modal-dialog" role="document">
                             <div class="modal-content" style="text-align:center;">
                                 <div class="modal-header">
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
@@ -566,8 +566,8 @@
                 </div>
 
                 <div class="col-md-4 col-sm-6 col-xxs-12">
-                    <div class="modal fade" id="exampleModalLong5" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
-                        <div class="modal-dialog" style="width:80%;" role="document">
+                    <div class="modal fade" id="exampleModalLong5" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true" style="padding:0px !important;">
+                        <div class="modal-dialog" role="document">
                             <div class="modal-content" style="text-align:center;">
                                 <div class="modal-header">
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
@@ -645,8 +645,8 @@
                 </div>
 
                 <div class="col-md-4 col-sm-6 col-xxs-12">
-                    <div class="modal fade" id="exampleModalLong6" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
-                        <div class="modal-dialog" style="width:80%;" role="document">
+                    <div class="modal fade" id="exampleModalLong6" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true" style="padding:0px !important;">
+                        <div class="modal-dialog" role="document">
                             <div class="modal-content" style="text-align:center;">
                                 <div class="modal-header">
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
@@ -727,8 +727,8 @@
 
             <div class="row">
                 <div class="col-md-4 col-sm-6 col-xxs-12">
-					<div ng-controller="mainController" class="modal fade" id="exampleModalLong7" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true" >
-						<div class="modal-dialog" style="width:80%;" role="document">
+					<div ng-controller="mainController" class="modal fade" id="exampleModalLong7" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true"  style="padding:0px !important;">
+						<div class="modal-dialog" role="document">
 							<div class="modal-content" style="text-align:center;">
 								<div class="modal-header">
 									<button type="button" class="close" data-dismiss="modal" aria-label="Close">
@@ -806,8 +806,8 @@
                 </div>
 
                 <div class="col-md-4 col-sm-6 col-xxs-12">
-                    <div class="modal fade" id="exampleModalLong8" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
-                        <div class="modal-dialog" style="width:80%;" role="document">
+                    <div class="modal fade" id="exampleModalLong8" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true" style="padding:0px !important;">
+                        <div class="modal-dialog" role="document">
                             <div class="modal-content" style="text-align:center;">
                                 <div class="modal-header">
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
@@ -887,8 +887,8 @@
                 <div class="clearfix visible-sm-block"></div>
 
                 <div class="col-md-4 col-sm-6 col-xxs-12">
-                    <div class="modal fade" id="exampleModalLong9" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
-                        <div class="modal-dialog" style="width:80%;" role="document">
+                    <div class="modal fade" id="exampleModalLong9" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true" style="padding:0px !important;">
+                        <div class="modal-dialog" role="document">
                             <div class="modal-content" style="text-align:center;">
                                 <div class="modal-header">
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
