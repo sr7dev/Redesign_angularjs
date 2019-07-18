@@ -50,15 +50,7 @@
 	<meta name="author" content="FREEHTML5.CO" /> -->
 
     <!-- Facebook and Twitter integration -->
-    <meta property="og:title" content="" />
-    <meta property="og:image" content="" />
-    <meta property="og:url" content="" />
-    <meta property="og:site_name" content="" />
-    <meta property="og:description" content="" />
-    <meta name="twitter:title" content="" />
-    <meta name="twitter:image" content="" />
-    <meta name="twitter:url" content="" />
-    <meta name="twitter:card" content="" />
+
 
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
     <link rel="shortcut icon" href="images/ic_logo_red.png">
