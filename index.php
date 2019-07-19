@@ -40,7 +40,6 @@
 &noscript=1" />
     </noscript>
     <!-- End Facebook Pixel Code -->
-
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>InSuit Technologies Swiss</title>
@@ -59,12 +58,9 @@
     <meta name="twitter:image" content="" />
     <meta name="twitter:url" content="" />
     <meta name="twitter:card" content="" />
-
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
     <link rel="shortcut icon" href="images/ic_logo_red.png">
-
     <link rel="icon" href="images/ic_logo_red.png" sizes="16x16" type="image/png">
-
     <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,400italic,700' rel='stylesheet' type='text/css'>
     <!-- Animate.css -->
     <link rel="stylesheet" href="css/animate.css">
